@@ -42,7 +42,7 @@ colorama
 ### 3. Clone the Project
 
 ```bash
-git clone https://github.com/username/bruteforce-tool.git
+git clone https://github.com/noerdev/admin-panel-bypass.git
 cd bruteforce-tool
 ```
 
@@ -51,7 +51,7 @@ cd bruteforce-tool
 Run the tool using the following command:
 
 ```bash
-python bruteforce_tool.py
+python bypass.py
 ```
 
 ---
