@@ -76,19 +76,6 @@ When you start the tool, you will see the following menu:
 
 ---
 
-## 📂 Project Structure
-
-```
-.
-├── bruteforce_tool.py      # Main Python file
-├── giris.txt               # Wordlist file (example)
-├── successful_logins.txt   # File for storing successful logins
-├── bruteforce_log.txt      # Log file
-└── requirements.txt        # Required Python libraries
-```
-
----
-
 ## ⚙️ Customization
 You can customize the following variables in the `bruteforce_tool.py` file:
 - **`self.timeout`**: Timeout duration for HTTP requests.
